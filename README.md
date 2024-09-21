@@ -1,3 +1,3 @@
 # Google-Translate-SMO
-Most of the Game Will Be Translated completely
-intended for Talkatoo
+Most of the Game Will Be Translated completely.
+Intended for Talkatoo, Have Fun!
