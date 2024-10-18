@@ -64,9 +64,11 @@ On 𝗦𝘄𝗶𝘁𝗰𝗵 use Odyssey Downgrader [Odyssey Downgrader](https://
 │       └── LocalizedData
 
 │           └── ...
+
 │       ├── ObjectData
 
 │       │   └── ...
+
 }
 │       └── LayoutData
 
