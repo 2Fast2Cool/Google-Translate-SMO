@@ -21,6 +21,9 @@ on 𝐄𝐦𝐮𝐥𝐚𝐭𝐨𝐫 remove the update to get to 1.0
  
 On 𝗦𝘄𝗶𝘁𝗰𝗵 use Odyssey Downgrader [Odyssey Downgrader](https://github.com/Istador/odyssey-downgrade/releases/) to get to 1.0
 
+# Filestructure
+
+
 𝐅𝐨𝐫 𝐄𝐦𝐮𝐥𝐚𝐭𝐨𝐫𝐬 𝐮𝐬𝐞𝐫𝐬 𝐅𝐢𝐥𝐞𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
 
 ├── <folder-name>
