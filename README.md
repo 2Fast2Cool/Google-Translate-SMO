@@ -19,7 +19,7 @@ Make sure you are on 1.0 not 1.3 it will not work
 
 on 𝐄𝐦𝐮𝐥𝐚𝐭𝐨𝐫 remove the update to get to 1.0
  
-On 𝗦𝘄𝗶𝘁𝗰𝗵 use Odyssey Downgrader [Odyssey Downgrader](https://github.com/Istador/odyssey-downgrade/releases/) to get to 1.0
+On 𝗦𝘄𝗶𝘁𝗰𝗵 use [Odyssey Downgrader](https://github.com/Istador/odyssey-downgrade/releases/) to get to 1.0
 
 # Filestructure
 
